@@ -1,0 +1,42 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TesteCarros",
+            "request": "launch",
+            "mainClass": "CursoJava.Orientação_A_Objetos.TesteCarros",
+            "projectName": "ProjetosJava_75e6af3a"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "CursoJava.IntroducaoPoo.Program",
+            "projectName": "ProjetosJava_75e6af3a"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "ProjetosJava_75e6af3a"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "CursoJava.Introducao_poo.Program",
+            "projectName": "ProjetosJava_75e6af3a"
+        }
+    ]
+}
