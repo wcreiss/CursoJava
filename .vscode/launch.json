@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TesteCarros",
+            "request": "launch",
+            "mainClass": "CursoJava.Orientação_A_Objetos.TesteCarros",
+            "projectName": "ProjetosJava_75e6af3a"
+        },
+        {
+            "type": "java",
             "name": "Program",
             "request": "launch",
             "mainClass": "CursoJava.IntroducaoPoo.Program",

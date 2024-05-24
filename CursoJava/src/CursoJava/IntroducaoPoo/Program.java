@@ -34,5 +34,7 @@ public class Program {
                 matriz[i][j] = scan.nextInt();
             }
        }
+
+       scan.close();
     }
 }
